@@ -1,8 +1,0 @@
-D:/School/202301/csc305/git/Assignment_1/out/build/x64-Debug/CMakeFiles/edit_cache.dir
-D:/School/202301/csc305/git/Assignment_1/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
-D:/School/202301/csc305/git/Assignment_1/out/build/x64-Debug/src/hull/CMakeFiles/edit_cache.dir
-D:/School/202301/csc305/git/Assignment_1/out/build/x64-Debug/src/hull/CMakeFiles/convex_hull.dir
-D:/School/202301/csc305/git/Assignment_1/out/build/x64-Debug/src/hull/CMakeFiles/rebuild_cache.dir
-D:/School/202301/csc305/git/Assignment_1/out/build/x64-Debug/src/inside/CMakeFiles/edit_cache.dir
-D:/School/202301/csc305/git/Assignment_1/out/build/x64-Debug/src/inside/CMakeFiles/point_in_polygon.dir
-D:/School/202301/csc305/git/Assignment_1/out/build/x64-Debug/src/inside/CMakeFiles/rebuild_cache.dir
