@@ -3,8 +3,9 @@ Xinlu Chen
 V00907022
 
 ++++++++++++++++++++++++++++++
-1. Overview: A description of the design of your compression scheme, including the set of transformations and
-techniques used, and the relevant parameters for each technique.
+1. Overview: A description of the design of your compression scheme, including the set of transformations and techniques used, and the relevant parameters for each technique.
+
+CAUSION: should run with eigen installed
 
 It contains:
     README.txt
