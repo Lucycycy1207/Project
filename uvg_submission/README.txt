@@ -1,6 +1,8 @@
 CSC485B A3
 XINLU CHEN V00907022
 
+This program is about image compression. It contains compressor and decompressor. Input is .bmp file.
+It uses techniques: DCT, quantization, 4:2:0 scaling for Y,Cb,Cr,delta encoding.
 files:
 bitmap_image.hpp 
 input_stream.hpp  
